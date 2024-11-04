@@ -1,22 +1,22 @@
-# Potapljanje ladij
+# Battleships
 
-### Dinamiko igre:
-* uganite položaj sovražnikove ladje in jih potopite.
+### Dynamics:
+* guess the enemy ship's position and sink them.
 
-### Mehaniko igre:
-* izbira položaja na tabli, izid izbire.
+### Mechanics:
+* choosing a position on the board, the result of the choice.
 
-### Elemente igre:
-* [voda](https://icons8.com/photos/photo/water-surface--5a1e1fe58b6588000131a0cf) (dodano 14.11.2021)
-* [ladja 1](https://www.flaticon.com/premium-icon/ship_2701775?related_id=2701770&origin=search) (dodano 14.11.2021)
-* [ladja 2](https://www.flaticon.com/premium-icon/cargo-ship_870107?related_id=870056&origin=search) (dodano 14.11.2021)
-* [ladja 3](https://www.flaticon.com/free-icon/ship_2639378?related_id=2639441&origin=search) (dodano 14.11.2021) in
-* [ladja 4](https://www.flaticon.com/premium-icon/cargo-ship_1981809?related_id=1981758&origin=search) (dodano 14.11.2021).
+### Assets:
+* [water](https://icons8.com/photos/photo/water-surface--5a1e1fe58b6588000131a0cf) (added 14.11.2021)
+* [ship 1](https://www.flaticon.com/premium-icon/ship_2701775?related_id=2701770&origin=search) (added 14.11.2021)
+* [ship 2](https://www.flaticon.com/premium-icon/cargo-ship_870107?related_id=870056&origin=search) (added 14.11.2021)
+* [ship 3](https://www.flaticon.com/free-icon/ship_2639378?related_id=2639441&origin=search) (added 14.11.2021) and
+* [ship 4](https://www.flaticon.com/premium-icon/cargo-ship_1981809?related_id=1981758&origin=search) (added 14.11.2021).
 
 
-**Opozorilo: Sredstva so bila na določene datume dodana in na voljo na spletu na navedenih povezavah. Žal mi je, če pri prihodnjem dostopu do njih pride do nevšečnosti.**
+**Disclaimer: the assets were available on the respective links at the day of adding them. I apologize if they are unavailable at this time.**
 
-### Koristne povezave:
-* [Brezplačno spreminjanje velikosti slike.](https://resizeimage.net/)
-* [Brezplačna pretvorba datotek na spletu.](https://www.freeconvert.com/)
-* [Brezplačno urejanje zvoka.](https://twistedwave.com/online)
+### Useful links:
+* [Free image resizer.](https://resizeimage.net/)
+* [Free file converter.](https://www.freeconvert.com/)
+* [Free voice editor.](https://twistedwave.com/online)
