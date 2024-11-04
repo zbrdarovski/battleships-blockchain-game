@@ -1,4 +1,4 @@
-# Battleships
+# Battleships Blockchain
 
 ### Dynamics:
 * guess the enemy ship's position and sink them.
